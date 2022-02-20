@@ -33,5 +33,9 @@
     "ts-loader": "^9.2.3",
     "ts-node": "^10.0.0",
     "tsconfig-paths": "^3.10.1"
+  },
+  "volta": {
+    "node": "16.14.0",
+    "yarn": "1.22.17"
   }
 }

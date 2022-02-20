@@ -5,6 +5,7 @@ dist
 node_modules
 .pnp
 .pnp.js
+.turbo
 
 # next.js
 .next/

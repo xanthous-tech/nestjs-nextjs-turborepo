@@ -10,10 +10,10 @@ export default function IndexPage(props: { body: string }) {
   return (
     <AppLayout>
       <Head>
-        <title>NextJS Boilerplate</title>
+        <title>Playground</title>
       </Head>
-      <Title level={2}>NextJS Boilerplate</Title>
-      <Paragraph>This boilerplate uses Ant Design and Tailwindcss.</Paragraph>
+      <Title level={2}>Playground</Title>
+      <Paragraph>Playground Page</Paragraph>
     </AppLayout>
   );
 }
